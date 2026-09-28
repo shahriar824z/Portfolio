@@ -1,0 +1,35 @@
+.logo {
+    width: 50px;
+}
+
+body {
+    color: #172033;
+}
+
+.gold-icon {
+    color: #d4af5a;
+}
+
+.gold-icon:hover {
+    color: #b89445;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: #172033;
+}
+
+.card {
+    border-color: #e5e5e5;
+}
+
+.card img {
+    object-fit: cover;
+}
+
+html {
+    scroll-behavior: smooth;
+}
